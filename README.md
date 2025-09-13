@@ -5,20 +5,16 @@
 
 ---
 
-## 🌟 Demo 1: hack_01_arrow_menu
+## 🌟 Demo 1: hack_01_arrow_menu.py
 
 ![Demo CLI](assets/hack_01_arrow_menu.gif)
 
-> Interactive property sales CRUD with arrow-key menu navigation.
+> Code pertama ini digunakan untuk membuat arrow key untuk memilih menu antar menu di terminal kalian
+> Library yang digunakan InquirerPy
+> Kalau kalian mau gunain tinggal
+'''bash
+> pip install inquirerpy 
 
----
-
-### ⚡ Features
-
-- Add, View, Edit, Delete property data  
-- Arrow key navigation in terminal  
-- Clean CLI layout  
-- Easily extendable for future hacks
 
 ---
 
