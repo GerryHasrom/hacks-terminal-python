@@ -1,6 +1,7 @@
 # 👾 Hacks Terminal Python ⌨
 
-**Repo kali ini bertujuan untuk menampilkan berbagai hacks pada terminal project python kalian yang mampu membuat kalian merasa keren dan seru-seruan aja**  
+**Repo kali ini bertujuan untuk menampilkan berbagai hacks pada terminal project python kalian yang mampu membuat kalian merasa keren dan buat seru-seruan aja**  
+**yakali dilewatin, yekan??** 
 
 ---
 
