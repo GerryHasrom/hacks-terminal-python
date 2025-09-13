@@ -5,7 +5,7 @@ Explore fun, practical, and visually appealing terminal scripts with arrow menus
 
 ---
 
-## 🌟 Demo: CLI Property Sales
+## 1 Demo: hack_01_arrow_menu
 
 ![Demo CLI](assets/hack_01_arrow_menu.gif)
 
