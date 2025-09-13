@@ -9,11 +9,10 @@
 
 ![Demo CLI](assets/hack_01_arrow_menu.gif)
 
-**Deskripsi:**  
 Script pertama ini membuat **arrow key menu interaktif** untuk navigasi antar menu di terminal kalian.  
 Menggunakan library tambahan **InquirerPy** supaya navigasinya smooth dan user-friendly.
 
-**Install dependency:**
+**Install dependency: (Jalanin di terminal code editor kalian) **
 ```bash
 pip install InquirerPy
 
