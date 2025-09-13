@@ -1,8 +1,9 @@
 # 👾 Hacks Terminal Python ⌨
 
-**Repo kali ini bertujuan untuk menampilkan berbagai hacks pada terminal project python kalian yang mampu membuat kalian merasa keren dan buat seru-seruan aja**  
-**yakali dilewatin, yekan??** 
+**✨ Repo ini menampilkan berbagai hacks di terminal Python**  
+Yang bikin kalian **merasa keren** sambil **seru-seruan aja** 😎  
 
+> **Yakali dilewatin, yekan??** 😏
 ---
 
 ## 🌟 Demo 1: hack_01_arrow_menu.py
