@@ -1,7 +1,6 @@
 # 🖥️ Hacks Terminal Python
 
-**Explore fun, practical, and visually appealing terminal scripts**  
-with arrow menus, colors, and more.
+**Repo kali ini bertujuan untuk menampilkan berbagai hacks pada terminal yang mampu membuat kalian merasa keren dan seru-seruan aja**  
 
 ---
 
