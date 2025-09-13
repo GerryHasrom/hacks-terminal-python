@@ -13,18 +13,3 @@ Explore fun, practical, and visually appealing terminal scripts with arrow menus
 
 ---
 
-## 📂 Features
-
-- Interactive CLI menus using **arrow keys**  
-- CRUD example: **Property Sales**  
-- Colored terminal output  
-- Easily expandable for new hacks  
-
----
-
-## 🚀 Getting Started
-
-### Clone Repo
-```bash
-git clone https://github.com/GerryHasrom/hacks-terminal-python.git
-cd hacks-terminal-python
