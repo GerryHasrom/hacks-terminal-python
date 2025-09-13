@@ -15,5 +15,3 @@ Menggunakan library tambahan **InquirerPy** supaya navigasinya smooth dan user-f
 **Install dependency: (Jalanin di terminal code editor kalian)**
 ```bash
 pip install InquirerPy
-
-
