@@ -18,9 +18,9 @@ Menggunakan library tambahan **InquirerPy** supaya navigasinya smooth dan user-f
 **Install dependency: (Jalanin di terminal code editor kalian)**
 ```bash
 pip install InquirerPy
+```
 
 ---
-
-Created by: Gerry Hasrom
-Created on: 14 September 2025
-Kamu bisa gunakan ini ( No License ) 
+- Created by: Gerry Hasrom
+- Created on: 14 September 2025
+- Kamu bisa gunakan ini ( No License ) 
