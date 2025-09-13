@@ -21,8 +21,7 @@ pip install InquirerPy
 ```
 
 ---
-<a href="https://linkedin.com/in/"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FAuthor-GerryHasrom-blue
-)"/></a>
+![Author](https://img.shields.io/badge/Author-GerryHasrom-blue?style=for-the-badge)
 - Created by: Gerry Hasrom
 - Created on: 14 September 2025
 - Kamu bisa gunakan ini ( No License ) 
