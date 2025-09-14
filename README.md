@@ -52,6 +52,19 @@ https://en.wikipedia.org/wiki/ANSI_escape_code#Colors
 
 ---
 
+## 🌟 Demo 3: hack_03_loading_bar_simple.py
+
+<p align="center">
+  <img src="assets/hack_03_loading_bar_simple.gif" alt="Demo CLI" />
+</p>
+
+Script ini menunjukkan cara **membuat animasi loading bar** pada teks di terminal menggunakan Python. Cukup mudah dan usefull, bisa menambah nilai project.
+> Kalian bisa custom sendiri kecepatan loading, panjang bar, karakter loadingnya didalam.
+
+
+---
+
+
 ![Author](https://img.shields.io/badge/Author-GerryHasrom-blue?style=for-the-badge)
 
 - Created by: Gerry Hasrom
