@@ -1,4 +1,4 @@
-# 👾 Hacks Terminal Python ⌨
+# 👾 Hacks Terminal Python ⬇️
 
 **Repo ini menampilkan berbagai hacks di terminal Python**  
 Yang bikin kalian **merasa keren** sambil **seru-seruan aja**   
