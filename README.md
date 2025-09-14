@@ -6,7 +6,7 @@ Yang bikin kalian **merasa keren** sambil **seru-seruan aja**   
 
 > **Yakali dilewatin, yekan??** 
 
-> Kalau kalian mau mencari tau lebih banyak, kunjungi website resmi ini: [Pypi]([https://pypi.org/project/inquirerpy/](https://pypi.org/))
+> Kalau kalian mau mencari tau lebih banyak, kunjungi website resmi ini: [Pypi]([https://pypi.org/project/inquirerpy/](https://pypi.org/)](https://pypi.org/))
 
 ---
 
