@@ -47,6 +47,7 @@ tanpa library, dan ini dokumentasi resmi, **kode warna dan background** yang kal
   <img src="assets/hack_02_color_text.png" alt="Demo CLI" />
 </p>
 
+Cek aja disini [Dokumentasi ANSI_escape_code](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors)
 ---
 
 ![Author](https://img.shields.io/badge/Author-GerryHasrom-blue?style=for-the-badge)
