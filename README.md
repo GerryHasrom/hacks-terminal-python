@@ -41,7 +41,11 @@ pip install InquirerPy
 Script ini menunjukkan cara **menambahkan warna** pada teks di terminal menggunakan Python. Teknik ini memanfaatkan ANSI escape codes,
 sebuah standar yang didukung oleh sebagian besar terminal modern untuk mengubah format teks.
 
-tanpa library
+tanpa library, dan ini dokumentasi resmi, **kode warna dan background** yang kalian bisa gunakan 
+
+<p align="center">
+  <img src="assets/hack_02_color_text.png" alt="Demo CLI" />
+</p>
 
 ---
 
